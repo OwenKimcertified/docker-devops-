@@ -18,3 +18,5 @@
 # Docker file
 
 0. docker file 알아보기
+
+1. docker file layer
